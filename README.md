@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/onikchugh007/DSA_ClassWork/tree/master/0052-n-queens-ii) |
+## Array
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/onikchugh007/DSA_ClassWork/tree/master/0036-valid-sudoku) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/onikchugh007/DSA_ClassWork/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/onikchugh007/DSA_ClassWork/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
