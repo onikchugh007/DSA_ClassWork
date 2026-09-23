@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/onikchugh007/DSA_ClassWork/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/onikchugh007/DSA_ClassWork/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/onikchugh007/DSA_ClassWork/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/onikchugh007/DSA_ClassWork/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/onikchugh007/DSA_ClassWork/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/onikchugh007/DSA_ClassWork/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/onikchugh007/DSA_ClassWork/tree/master/0197-rising-temperature) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/onikchugh007/DSA_ClassWork/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
