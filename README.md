@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/onikchugh007/DSA_ClassWork/tree/master/0047-permutations-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/onikchugh007/DSA_ClassWork/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/onikchugh007/DSA_ClassWork/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
